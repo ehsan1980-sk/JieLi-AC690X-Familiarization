@@ -8,10 +8,6 @@ These chips require dedicated programmer or dedicated "activator". As far as I k
 
 The activator gets the chip into some kind of DFU mode but im not sure if it after that just passes USB signal through or if it translates the usb signal somehow. I don't know since I don't have it...
 
-But since there is a chance that it just gets the chip into it's "DFU" you might have luck with arduino "Activator" that Christian Kramer made 
-
-Basically all software even some video tutorials (in chinese) you need to develop and flash the chip with translated documentation is here https://drive.google.com/drive/folders/1hY1Y14WgtDCADP_HFHKV_7DR8CSyuegC?usp=sharing
-
 
 
 this is dedicated programmer for these chips.
